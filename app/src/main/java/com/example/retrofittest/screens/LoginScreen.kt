@@ -148,7 +148,7 @@ fun LoginScreen() {
                             }
                             TextButton(onClick = { }) {
                                 Text(
-                                    text = "Forget Password?",
+                                    text = "Forgot Password?",
                                     color = Color.Gray
                                 )
 
